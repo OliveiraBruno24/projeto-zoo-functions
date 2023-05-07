@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 const getAnimalsOlderThan = (animal, age) => {
-  // seu código aqui
+  // seu código aqui 
 };
 
 module.exports = getAnimalsOlderThan;
