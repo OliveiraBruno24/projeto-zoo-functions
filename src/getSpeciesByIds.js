@@ -4,9 +4,9 @@ const getSpeciesByIds = (...ids) => {
   const trem = [];
 
   ids.forEach((elemento) => {
-    const bucaAnimal = data.species.find((raca) => raca.id === elemento);
-    if (bucaAnimal) {
-      trem.push(bucaAnimal);
+    const buscaAnimal = data.species.find((raca) => raca.id === elemento);
+    if (buscaAnimal) {
+      trem.push(buscaAnimal);
     }
   });
   return trem;
