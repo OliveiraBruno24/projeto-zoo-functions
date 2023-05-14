@@ -53,10 +53,4 @@ describe('Testes da função getOpeningHours', () => {
     const quandoRecebe = getOpeningHours();
     expect(quandoRecebe).toEqual(espera);
   });
-
-//   it('Deve lançar um erro para o horário inválido', () => {
-//     expect(() => {
-//       getOpeningHours('Tuesday', '20:00');
-//     }).toThrow('Invalid time');
-//   });
 });
