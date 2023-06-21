@@ -1,4 +1,3 @@
-# :construction: README em construção ! :construction:
 projeto final do módulo de fundamentos, voltado mais para lógica em JavaScript. 
 Sem interface gráfica, tampouco aplicação de CSS.
 
